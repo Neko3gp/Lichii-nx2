@@ -1,0 +1,4 @@
+# Copy to ~/.config/eden/nx2_switches.txt (or $XDG_CONFIG_HOME/eden/nx2_switches.txt) and restart.
+# Same values as dist/nx2_switches.txt; kept explicit so they survive a changed default.
+EDEN_NX2_SPLIT=2
+EDEN_NX2_FENCE_BATCH=1
